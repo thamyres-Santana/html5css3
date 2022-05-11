@@ -1,0 +1,19 @@
+{
+    "name": "HTML E CSS",
+    "short_name": "HTML E CSS",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#558fb4",
+    "background_color": "#558fb4",
+    "display": "standalone"
+}
